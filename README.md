@@ -1,2 +1,2 @@
-# Apparent-Temperatrure-Detection
+# Apparent-Temperature-Detection
 Using RandomizedSearchCV
